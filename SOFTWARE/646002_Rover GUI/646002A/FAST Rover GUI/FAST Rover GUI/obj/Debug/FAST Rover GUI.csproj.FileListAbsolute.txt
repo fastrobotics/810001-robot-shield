@@ -1,0 +1,35 @@
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Form1.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Properties.Resources.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csproj.GenerateResource.Cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe.config
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\FAST_Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe.config
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csprojResolveAssemblyReference.cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Form1.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Properties.Resources.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csproj.GenerateResource.Cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe.config
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csprojResolveAssemblyReference.cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Form1.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Properties.Resources.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csproj.GenerateResource.Cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe.config
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.exe
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\bin\Debug\FAST Rover GUI.pdb
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csprojResolveAssemblyReference.cache
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Form1.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST_Rover_GUI.Properties.Resources.resources
+C:\SharedDrive\Dropbox\FAST Robotics\Products\810001_FAST Robot Shield\SOFTWARE\646002_Rover GUI\646002A\FAST Rover GUI\FAST Rover GUI\obj\Debug\FAST Rover GUI.csproj.GenerateResource.Cache
