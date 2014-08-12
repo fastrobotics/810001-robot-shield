@@ -16,4 +16,6 @@ Robot Shield comes in!  Here are some of its features:
 For a complete datasheet see: https://github.com/fastrobotics/810001_robot-shield/blob/master/810001_Robot%20Shield%20Datasheet.pdf
 
 To get you started, we have provided a nice demo of hooking up a a Robot to the Quickstart and the Robot Shield and 
-controlling by a laptop GUI.  
+controlling by a laptop GUI.  A Hookup Guide is here:  https://github.com/fastrobotics/810001_robot-shield/blob/master/DOCUMENTATION/840005_FAST%20ROVER%2C%20QUICKSTART%2C%20ROBOT%20SHIELD%20HOOKUP%20GUIDE.pdf
+
+And you can watch a video demonstrating this here: 
