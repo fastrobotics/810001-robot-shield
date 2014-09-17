@@ -184,7 +184,7 @@ CON
 
 
 OBJ
-  uart:         "FullDuplexSerial"
+  uart:         "Parallax Serial Terminal"
   pwmout:       "PWM_32_v4"
   util:         "Util"
   math:         "DynamicMathLib"
@@ -264,7 +264,7 @@ PUB init | i,sum, tempstr, temp1,fileerror
     dira[BRMotorPin]~~
 
    'Initialize all Ports
-  uart.start(usbrx,usbtx,0,9600)
+  uart.StartRxTx(usbrx,usbtx,0,9600)
 
  ' repeat
   '  waitcnt(clkfreq/10 + cnt)
@@ -386,7 +386,7 @@ pub climode| i, exit,choice
           exit := 1
 
 pri getpcrxdec | num
-  num := uart.rx - 48
+  num := uart.CharIn - 48
   return num
 pri calib_mode(option)|state
   state := 0
@@ -432,13 +432,13 @@ pri debugmode_gpio(debug_gpiooption) | exit,i,j
         uart.dec(j+1)
         uart.str(string(SPACE))
         uart.bin(INA[GPIO1-j],1) 'Since GPIO1 is higher than GPIO5.
-        uart.tx(TAB)
+        uart.Char(TAB)
       repeat j from 0 to 3
         uart.str(string("U "))
         uart.dec(j+1)
         uart.str(string(SPACE))
         uart.bin(INA[US1-j],1) 'Since GPIO1 is higher than GPIO5.
-        uart.tx(TAB)
+        uart.Char(TAB)
       uart.str(string(CR,LF))
       i++  
   elseif debug_gpiooption == GPIO_OUTPUT
@@ -479,8 +479,8 @@ pri debugmode(debugoption)| exit,i,j,tempstr,temp1
               'repeat j from 0 to 31
                    'uart.bin(outa[j],1)
               uart.bin(INA[0..31],32)      
-              uart.tx(CR)
-              uart.tx(LF)
+              uart.Char(CR)
+              uart.Char(LF)
               i++
       DEBUG_SERVO:
         DIRA[SERVO1..SERVO4]~~
@@ -525,7 +525,7 @@ pri debugmode(debugoption)| exit,i,j,tempstr,temp1
             uart.dec(i+1)
             uart.str(string(": "))                     
             uart.dec(adc.in(i))
-            uart.tx(TAB)
+            uart.Char(TAB)
           uart.str(string(CR,LF))
         climode                                                
       DEBUG_SD:
